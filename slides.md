@@ -2,7 +2,7 @@
 author: Jorrit Poelen https://jhpoelen.nl
 title: "BatLit.org - Mobilizing Bat Literature"
 subtitle: "through Existing Collaborations, Platforms, and Open Source Tools"
-date: 2024-10-24
+date: 2024-10-25
 ---
 
 ## Guiding Questions
