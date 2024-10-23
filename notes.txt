@@ -1,0 +1,37 @@
+from https://www.nasbr.org/presentations24 accessed 2024-10-16:
+
+Name your file as Day_Time_YourLastName (e.g., Thursday_1430_Horst).  
+
+To ensure that sessions run smoothly and on time, all oral presentations PowerPoint/PDF files should be uploaded to the provided Dropbox link or brought on a flash drive to the registration desk by 5:00 pm the day prior to the presentation. Presentation files will not be accepted the day of the presentation. Failure to submit your presentation file in a timely manner may result in a cancelled or rescheduled presentation.
+
+NASBR uses a 16:9 (widescreen) projection format. It is highly recommended that you format your slides to be 16:9.  If your slides are in the old 4:3 format they may not occupy the entire screen (black borders on the sides) and will appear small to the audience.
+
+Krumbach, T., Koopman, K. F., & Krumbach, T. (1994). Chiroptera, Teilbd. 60: systematics. de Gruyter. https://doi.org/10.5281/zenodo.13422270 https://linker.bio/hash://md5/70c3e0fba7379e09e95a38569fe29da7
+
+Andersen, K., & Dobson, G. E. (1912). Catalogue of the Chiroptera in the collection of the . Museum / By G.E. Dobson. [s.n.]. https://doi.org/10.5281/zenodo.13517334 https://linker.bio/hash://md5/56384a6778e2c67bbd8ebe4d63f770cf
+
+Kunz, T. H., & Kunz, T. H. (1982). Roosting Ecology of Bats. In Ecology of Bats (pp. 1–55). Springer US. https://doi.org/10.5281/zenodo.13529195 https://linker.bio/hash://md5/a4306e889bf860ad32f59d6c429894c8
+
+Not included:
+M. B. Fenton, L. Acharya, D. Audet, M. B. C. Hickey, C. Merriman, M. K. Obrist, D. M. Syme, B. Adkins, Phyllostomid Bats (Chiroptera: Phyllostomidae) as Indicators of Habitat Disruption in the Neotropics, Biotropica, Vol. 24, No. 3 (Sep., 1992), pp. 440-446
+
+
+Related to Nancy's photos
+
+The last three (file cabinet pictures) are from the AMNH Department of Mammalogy Library.  The first two (reprint boxes and stack of papers etc.) are from Nancy Simmons' office.
+
+
+
+
+
+1:24
+All pictures taken today (2024-10-3)
+
+
+
+rsync transfer from 4TB external hdd spinning disk to 128GB SAN Disc sdcard:
+
+sent 55,689,275,587 bytes  received 764,869 bytes  21,090,717.84 bytes/sec
+total size is 64,777,006,782  speedup is 1.16
+
+about 50 minutes transfer time at 21GB bytes/hr
