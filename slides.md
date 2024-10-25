@@ -117,7 +117,7 @@ Andersen, K.C. 1912. Catalogue of the Chiroptera in the collection of the Britis
 
 ## How Was Jorrit Able to Access This Paper at 30,000 ft?
 
-![Jorrit bought a 128GB SD Card for $25 USD at the Target on 2500 E Lake St, Minneapolis, Minnesota before NASBR 2024](img/bat-storage-sdcard-receipt-2024-10-21.jpeg){height=75%}
+![Jorrit bought a 128GB SD Card for ~$25 USD at the Target on 2500 E Lake St, Minneapolis, Minnesota before NASBR 2024](img/bat-storage-sdcard-receipt-2024-10-21.jpeg){height=75%}
 
 ## How Was Jorrit Able to Access This Paper at 30,000 ft?
 
@@ -155,7 +155,7 @@ Through Work of CETAF/GBatNet Eco-Interactions working group activities spanning
     * (G3) provide open-access to bat literature. 
  * Plazi provided a legal framework via their Biodiversity Literature Repository ^[https://plazi.org, https://zenodo.org/communities/biosyslit/records].
  * BatBase ^[Bat Eco-Interactions Project, https://batbase.org] provided curatorial support.
- * Jorrit reused open source software to track, package and version bat literature metadata and their pdfs.
+ * Jorrit reused open source software ^[https://github.com/bio-guoda/preston] to track, package and version bat literature metadata and their pdfs.
  * Researchers like you shared their literature collections.
 
 ## Next Steps
