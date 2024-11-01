@@ -1,6 +1,6 @@
 ---
 author:
-  - Jorrit Poelen (UC Santa Barbara, Ronin Institute)
+  - Jorrit Poelen (UC Santa Barbara Cheadle Center, Ronin Institute)
   - Aja C. Sherman (Bat Eco-Interactions Project)
   - Anna Willoughby (University of Georgia, Athens, GA, US)
   - Donat Agosti (Plazi)
